@@ -1,0 +1,14 @@
+<widget id="com.charlesbao.dribbbleClient" version="0.0.1" 
+  xmlns="http://www.w3.org/ns/widgets" 
+  xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Dribbble Client</name>
+  <description>Dribbble Client for BB10</description>
+  <rim:splash src="img/screen1.png"/>
+  <content src="index.html"/>
+  <access origin="*"/>
+  <preference name="Orientation" value="portrait"/>
+  <preference name="WebSecurity" value="disable"/>
+  <preference name="DiskCache" value="enable"/>
+  <icon src="img/dribbbleLogo.png"/>
+  <author email="hi@charlesbao.coom" href="http://charlesbao.com">CharlesBao</author>
+</widget>
